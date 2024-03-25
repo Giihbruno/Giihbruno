@@ -1,4 +1,4 @@
-- 👋 Oiee! Eu sou a Giovanna Bruno 
+- 👋 Oiee! Meu nome é Giovanna Bruno 
 - 👀 Tenho interesse em trabalhar com front-end 
 - 🌱 Atualmente estou aprendendo HTML e CSS 
 - 📫 [https://www.linkedin.com/in/giovanna-a-bruno-4b044b1ba/ reach me ...](https://www.linkedin.com/in/giovanna-a-bruno-4b044b1ba/)
