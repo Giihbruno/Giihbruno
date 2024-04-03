@@ -2,7 +2,7 @@
 
 
 - 👀 Tenho interesse em trabalhar com front-end 
-- 📚 Atualmente estou aprendendo HTML e CSS
+- 📚 Atualmente estou aprendendo HTML, CSS e Javascript
 
 
 <div>
