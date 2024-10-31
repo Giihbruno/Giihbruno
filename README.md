@@ -1,7 +1,7 @@
 # Oiee! Meu nome é Giovanna Bruno 
 
 
-- 👀 Tenho interesse em trabalhar com front-end 
+- 👀 Trabalho como estagiário FullStack, com foco em back-end 
 - 📚 Atualmente estou aprendendo HTML, CSS e Javascript
 
 
